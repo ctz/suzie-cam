@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Suzie TV</string>
+    <string name="loading_images">Loading images&#8230;</string>
+    <string name="refresh_menu">Refresh</string>
+    
+    <string name="title_minus0">Live</string>
+    <string name="title_minus1">1 minute ago</string>
+    <string name="title_minus5">5 minutes ago</string>
+    <string name="title_minus15">15 minutes ago</string>
+    <string name="title_minus30">30 minutes ago</string>
+    <string name="title_minus60">1 hour ago</string>
+    <string name="title_minus120">2 hours ago</string>
+
+</resources>
